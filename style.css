@@ -1,0 +1,6 @@
+.container > *{
+    width: fit-content;
+}
+.container {
+    width: fit-content;
+}
